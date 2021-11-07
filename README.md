@@ -1,16 +1,11 @@
-# christmas_tree
+# Christmas_Tree
+This application is a christmas tree animation.
 
-A new Flutter project.
+It uses and focuses upon-
 
-## Getting Started
+1. List view
+2. Synchronous generator- It is used to generate a particular number and pattern of lights.
+3. Tween animation builder- It is used to blink the lights.
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/77429521/140635302-aeafd3fe-b390-44e7-9bb2-d9236269feee.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
